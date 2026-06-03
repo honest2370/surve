@@ -5,7 +5,6 @@
   "devCommand": "npm run dev",
   "regions": ["iad1"],
   "env": {
-    "DATABASE_URL": "@database_url",
     "JWT_SECRET": "@jwt_secret",
     "SURVEY_SECRET_KEY": "@survey_secret_key",
     "RAPIDOREACH_APP_ID": "@rapidoreach_app_id",
